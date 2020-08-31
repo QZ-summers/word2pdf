@@ -1,3 +1,4 @@
+#code 作者：qz-summers
 import sys
 import os
 import comtypes.client
